@@ -2,12 +2,221 @@
   {
     "id": "manchester",
     "name": "Manchester",
-    "country":"UK",
+    "country": "UK",
     "source": "remote",
     "thumbnailUrl": "https://andrewpmoore.github.io/gusty_scenes/scenes/manchester.png",
-"lat": 53.4808,
+    "lat": 53.4808,
     "lng": -2.2426,
     "radiusInKm": 20.0
+  },
+  {
+    "id": "bangkok",
+    "name": "Bangkok",
+    "source": "remote",
+    "thumbnailUrl": "https://andrewpmoore.github.io/gusty_scenes/scenes/bangkok.png",
+    "country": "Thailand",
+    "lat": 13.7563,
+    "lng": 100.5018,
+    "radiusInKm": 30.0
+  },
+  {
+    "id": "berlin",
+    "name": "Berlin",
+    "source": "remote",
+    "thumbnailUrl": "https://andrewpmoore.github.io/gusty_scenes/scenes/berlin.png",
+    "country": "Germany",
+    "lat": 52.52,
+    "lng": 13.405,
+    "radiusInKm": 25.0
+  },
+  {
+    "id": "boston",
+    "name": "Boston",
+    "source": "remote",
+    "thumbnailUrl": "https://andrewpmoore.github.io/gusty_scenes/scenes/boston.png",
+    "country": "USA",
+    "lat": 42.3601,
+    "lng": -71.0589,
+    "radiusInKm": 25.0
+  },
+  {
+    "id": "cairo",
+    "name": "Cairo",
+    "source": "remote",
+    "thumbnailUrl": "https://andrewpmoore.github.io/gusty_scenes/scenes/cairo.png",
+    "country": "Egypt",
+    "lat": 30.0444,
+    "lng": 31.2357,
+    "radiusInKm": 30.0
+  },
+  {
+    "id": "chicago",
+    "name": "Chicago",
+    "source": "remote",
+    "thumbnailUrl": "https://andrewpmoore.github.io/gusty_scenes/scenes/chicago.png",
+    "country": "USA",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "radiusInKm": 40.0
+  },
+  {
+    "id": "delhi",
+    "name": "Delhi",
+    "source": "remote",
+    "thumbnailUrl": "https://andrewpmoore.github.io/gusty_scenes/scenes/delhi.png",
+    "country": "India",
+    "lat": 28.6139,
+    "lng": 77.209,
+    "radiusInKm": 30.0
+  },
+  {
+    "id": "hongkong",
+    "name": "Hongkong",
+    "source": "remote",
+    "thumbnailUrl": "https://andrewpmoore.github.io/gusty_scenes/scenes/hongkong.png",
+    "country": "China",
+    "lat": 22.3193,
+    "lng": 114.1694,
+    "radiusInKm": 20.0
+  },
+  {
+    "id": "istanbul",
+    "name": "Istanbul",
+    "source": "remote",
+    "thumbnailUrl": "https://andrewpmoore.github.io/gusty_scenes/scenes/istanbul.png",
+    "country": "Turkey",
+    "lat": 41.0082,
+    "lng": 28.9784,
+    "radiusInKm": 30.0
+  },
+  {
+    "id": "leeds",
+    "name": "Leeds",
+    "source": "remote",
+    "thumbnailUrl": "https://andrewpmoore.github.io/gusty_scenes/scenes/leeds.png",
+    "country": "UK",
+    "lat": 53.8008,
+    "lng": -1.5491,
+    "radiusInKm": 15.0
+  },
+  {
+    "id": "losangeles",
+    "name": "Losangeles",
+    "source": "remote",
+    "thumbnailUrl": "https://andrewpmoore.github.io/gusty_scenes/scenes/losangeles.png",
+    "country": "USA",
+    "lat": 34.0522,
+    "lng": -118.2437,
+    "radiusInKm": 60.0
+  },
+  {
+    "id": "madrid",
+    "name": "Madrid",
+    "source": "remote",
+    "thumbnailUrl": "https://andrewpmoore.github.io/gusty_scenes/scenes/madrid.png",
+    "country": "Spain",
+    "lat": 40.4168,
+    "lng": -3.7038,
+    "radiusInKm": 25.0
+  },
+  {
+    "id": "paris",
+    "name": "Paris",
+    "source": "remote",
+    "thumbnailUrl": "https://andrewpmoore.github.io/gusty_scenes/scenes/paris.png",
+    "country": "France",
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "radiusInKm": 20.0
+  },
+  {
+    "id": "rome",
+    "name": "Rome",
+    "source": "remote",
+    "thumbnailUrl": "https://andrewpmoore.github.io/gusty_scenes/scenes/rome.png",
+    "country": "Italy",
+    "lat": 41.9028,
+    "lng": 12.4964,
+    "radiusInKm": 20.0
+  },
+  {
+    "id": "sandiego",
+    "name": "Sandiego",
+    "source": "remote",
+    "thumbnailUrl": "https://andrewpmoore.github.io/gusty_scenes/scenes/sandiego.png",
+    "country": "USA",
+    "lat": 32.7157,
+    "lng": -117.1611,
+    "radiusInKm": 30.0
+  },
+  {
+    "id": "seattle",
+    "name": "Seattle",
+    "source": "remote",
+    "thumbnailUrl": "https://andrewpmoore.github.io/gusty_scenes/scenes/seattle.png",
+    "country": "USA",
+    "lat": 47.6062,
+    "lng": -122.3321,
+    "radiusInKm": 25.0
+  },
+  {
+    "id": "seoul",
+    "name": "Seoul",
+    "source": "remote",
+    "thumbnailUrl": "https://andrewpmoore.github.io/gusty_scenes/scenes/seoul.png",
+    "country": "South Korea",
+    "lat": 37.5665,
+    "lng": 126.978,
+    "radiusInKm": 35.0
+  },
+  {
+    "id": "shanghai",
+    "name": "Shanghai",
+    "source": "remote",
+    "thumbnailUrl": "https://andrewpmoore.github.io/gusty_scenes/scenes/shanghai.png",
+    "country": "China",
+    "lat": 31.2304,
+    "lng": 121.4737,
+    "radiusInKm": 35.0
+  },
+  {
+    "id": "sydney",
+    "name": "Sydney",
+    "source": "remote",
+    "thumbnailUrl": "https://andrewpmoore.github.io/gusty_scenes/scenes/sydney.png",
+    "country": "Australia",
+    "lat": -33.8688,
+    "lng": 151.2093,
+    "radiusInKm": 35.0
+  },
+  {
+    "id": "tokyo",
+    "name": "Tokyo",
+    "source": "remote",
+    "thumbnailUrl": "https://andrewpmoore.github.io/gusty_scenes/scenes/tokyo.png",
+    "country": "Japan",
+    "lat": 35.6762,
+    "lng": 139.6503,
+    "radiusInKm": 45.0
+  },
+  {
+    "id": "warsaw",
+    "name": "Warsaw",
+    "source": "remote",
+    "thumbnailUrl": "https://andrewpmoore.github.io/gusty_scenes/scenes/warsaw.png",
+    "country": "Poland",
+    "lat": 52.2297,
+    "lng": 21.0122,
+    "radiusInKm": 20.0
+  },
+  {
+    "id": "washington",
+    "name": "Washington",
+    "source": "remote",
+    "thumbnailUrl": "https://andrewpmoore.github.io/gusty_scenes/scenes/washington.png",
+    "country": "USA",
+    "lat": 38.9072,
+    "lng": -77.0369,
+    "radiusInKm": 25.0
   }
 ]
-
