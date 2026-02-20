@@ -218,5 +218,15 @@
     "lat": 38.9072,
     "lng": -77.0369,
     "radiusInKm": 25.0
+  },
+  {
+    "id": "stlouis",
+    "name": "St. Louis",
+    "source": "remote",
+    "thumbnailUrl": "https://andrewpmoore.github.io/gusty_scenes/scenes/stlouis.png",
+    "country": "USA",
+    "lat": 38.6272,
+    "lng": -90.1978,
+    "radiusInKm": 25.0
   }
 ]
